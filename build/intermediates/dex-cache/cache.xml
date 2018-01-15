@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mattia/Development/InstaDroid/library/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d69ce35d6df76e469fb7d92098eab72d26ad41a">
+        <dex dex="/home/mattia/Development/InstaDroid/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+
+</items>
